@@ -32,7 +32,7 @@ The course will introduce you to the world of data science.
 | 17th October* | Linear Regression 1                |         |           |
 | 24th October | Linear Regression 2                 |         |             |
 | 31th October | Introduction to Machine Learning    |         |            |
-| 7th November | Tree-based Models                   |    |          |
+| 7th November | Tree-based Models                   |  Project Proposal  |          |
 | 14th November | Data Communication + Quiz          |           |           |
 | 21th November | Applied Machine Learning           |         |          |
 | 28th November | Final Project Presentation         |         |            |
