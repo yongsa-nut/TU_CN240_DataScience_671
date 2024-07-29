@@ -38,3 +38,9 @@ The course will introduce you to the world of data science.
 | 28th November | Final Project Presentation         |         |            |
 
 *I'm out of town (conference and competition).
+
+## Grading Rubrics
+- Midterm: 20%
+- Quiz: 15%
+- Final Project: 25% (5% from Project Proposal)
+- Homework and Exercise: 40%
