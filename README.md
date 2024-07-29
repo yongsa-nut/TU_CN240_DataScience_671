@@ -22,7 +22,7 @@ The course will introduce you to the world of data science.
 | ----- | --------- | -------- | ----------- |
 | 15th August |  Intrduction to the course              |       |              |  
 | 22th August |  Panda Basic                            |          |        |
-| 29th August |  Data Visualization with Plotnine       |       |        |      
+| 29th August |  Data Visualization Basic       |       |        |      
 | 5th September  | EDA and Data Visualization Principles|       |            |
 | 12th September | Data Visualization Case Studies      |      |         |
 | 19th September | Data Cleaning and Wrangling           |          |           |
