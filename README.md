@@ -26,7 +26,7 @@ The course will introduce you to the world of data science.
 | 5th September  | EDA and Data Visualization Principles      |          |       |            |
 | 12th September | Data Visualization Case Studies      |        |      |         |
 | 19th September | Data Cleanin and Wrangling       |          |          |           |
-| 26th September | Data Minin and Web Scraping      |        |   |    |
+| 26th September | Data Mining and Web Scraping      |        |   |    |
 | 3rd October  |  Midterm       |           |          |                        |
 | 10th October* | Introduction to Statistical Analysis        |        |        |             |
 | 17th October* | Linear Regression 1       |      |         |           |
