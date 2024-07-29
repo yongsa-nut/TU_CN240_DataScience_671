@@ -11,7 +11,7 @@ email: ynutchan@engr.tu.ac.th
 
 Office hours: TBA
 
-My room: No room until the building is finished renovating.
+My room: No room until the building is finished renovation.
 
 ## Course overview 
 The course will introduce you to the world of data science.
