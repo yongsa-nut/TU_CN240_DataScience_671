@@ -25,7 +25,7 @@ The course will introduce you to the world of data science.
 | 29th August |  Data Visualization with Plotnine       |       |        |      
 | 5th September  | EDA and Data Visualization Principles|       |            |
 | 12th September | Data Visualization Case Studies      |      |         |
-| 19th September | Data Cleanin and Wrangling           |          |           |
+| 19th September | Data Cleaning and Wrangling           |          |           |
 | 26th September | Data Mining and Web Scraping         |       |    |
 | 3rd October  |  Midterm                            |          |                        |
 | 10th October* | Introduction to Statistical Analysis |        |             |
