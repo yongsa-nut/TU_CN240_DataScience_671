@@ -20,8 +20,8 @@ The course will introduce you to the world of data science.
 
 | Date  |   Topic    | Homework | HW Deadline |
 | ----- | --------- | -------- | ----------- |
-| 15th August |  Intrduction to the course              |       |              |  
-| 22th August |  Panda Basic                            |          |        |
+| 15th August |  [Intrduction to the course](https://docs.google.com/presentation/d/15hXHChdy4Gy9qmLRnrUj2cyhyaWmN-6nqQQZQ_bYjRQ/edit?usp=sharing)              |       |              |  
+| 22th August |  Pandas Basic                            |          |        |
 | 29th August |  Data Visualization Basic       |       |        |      
 | 5th September  | EDA and Data Visualization Principles|       |            |
 | 12th September | Data Visualization Case Studies      |      |         |
