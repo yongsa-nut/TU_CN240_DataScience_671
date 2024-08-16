@@ -20,7 +20,7 @@ The course will introduce you to the world of data science.
 
 | Date  |   Topic    | Homework | HW Deadline |
 | ----- | --------- | -------- | ----------- |
-| 15th August |  [Intrduction to the course](https://docs.google.com/presentation/d/15hXHChdy4Gy9qmLRnrUj2cyhyaWmN-6nqQQZQ_bYjRQ/edit?usp=sharing), [Video](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EQ8H4WCH-ttIqHBOPPXnJEkBH1omxrCilEVJyKaprUdZTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=m06yGd)              |       |              |  
+| 15th August |  [Intrduction to the course](https://docs.google.com/presentation/d/15hXHChdy4Gy9qmLRnrUj2cyhyaWmN-6nqQQZQ_bYjRQ/edit?usp=sharing), [(Video)](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EQ8H4WCH-ttIqHBOPPXnJEkBH1omxrCilEVJyKaprUdZTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=m06yGd)              |       |              |  
 | 22th August |  Pandas Basic                            |          |        |
 | 29th August |  Data Visualization Basic       |       |        |      
 | 5th September  | EDA and Data Visualization Principles|       |            |
