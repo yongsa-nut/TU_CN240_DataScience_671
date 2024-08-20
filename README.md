@@ -21,18 +21,18 @@ The course will introduce you to the world of data science.
 | Date  |   Topic    | Video | Homework | HW Deadline |
 | ----- | ---------  | ------| -------- | ----------- |
 | 15th August |  [Intrduction to the course](https://docs.google.com/presentation/d/15hXHChdy4Gy9qmLRnrUj2cyhyaWmN-6nqQQZQ_bYjRQ/edit?usp=sharing) | [(Video)](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EQ8H4WCH-ttIqHBOPPXnJEkBH1omxrCilEVJyKaprUdZTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=m06yGd)              |       |              |  
-| 22th August |  [Pandas Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Pandas_Basic.ipynb)       |                     |          |        |
-| 29th August |  [Data Visualization Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Visualization_Basic.ipynb)  |      |       |        |      
+| 22th August |  [Pandas Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Pandas_Basic.ipynb)       |                     |  HW1        |        |
+| 29th August |  [Data Visualization Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Visualization_Basic.ipynb)  |      |  HW2      |        |      
 | 5th September  | [Data Visualization Principles](https://docs.google.com/presentation/d/10wyJWXZ1OCpDqDL045LXrcC5tVAz5OoXC_yxYs2B4Ow/edit?usp=sharing) |    |       |            |
-| 12th September | [EDA and Case Studies](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_5.ipynb)  |    |      |         |
-| 19th September | [Data Cleaning and Wrangling](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_6.ipynb)       |     |          |           |
+| 12th September | [EDA and Case Studies](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_5.ipynb)  |    |      |  HW3       |
+| 19th September | [Data Cleaning and Wrangling](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_6.ipynb)       |  HW4     |          |           |
 | 26th September | Data Mining and Web Scraping      |     |       |    |
 | 3rd October  |  Midterm                            |     |          |                        |
-| 10th October* | Introduction to Statistical Analysis |      |        |             |
+| 10th October* | Introduction to Statistical Analysis |      | HW5       |             |
 | 17th October* | Linear Regression 1                |     |         |           |
-| 24th October | Linear Regression 2                 |     |         |             |
-| 31th October | Introduction to Machine Learning    |     |         |            |
-| 7th November | Tree-based Models                   |     |  Project Proposal  |          |
+| 24th October | Linear Regression 2                 |     | HW6        |             |
+| 31th October | Introduction to Machine Learning    |     | HW7        |            |
+| 7th November | Tree-based Models                   |     | HW8, Project Proposal  |          |
 | 14th November | Data Communication + Quiz          |     |           |           |
 | 21th November | Applied Machine Learning           |     |         |          |
 | 28th November | Final Project Presentation         |     |         |            |
