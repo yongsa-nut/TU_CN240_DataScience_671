@@ -25,7 +25,7 @@ The course will introduce you to the world of data science.
 | 29th August |  [Data Visualization Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Visualization_Basic.ipynb)  |      |       |        |      
 | 5th September  | [Data Visualization Principles](https://docs.google.com/presentation/d/10wyJWXZ1OCpDqDL045LXrcC5tVAz5OoXC_yxYs2B4Ow/edit?usp=sharing) |    |       |            |
 | 12th September | [EDA and Case Studies](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_5.ipynb)  |    |      |         |
-| 19th September | Data Cleaning and Wrangling       |     |          |           |
+| 19th September | [Data Cleaning and Wrangling](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_6.ipynb)       |     |          |           |
 | 26th September | Data Mining and Web Scraping      |     |       |    |
 | 3rd October  |  Midterm                            |     |          |                        |
 | 10th October* | Introduction to Statistical Analysis |      |        |             |
