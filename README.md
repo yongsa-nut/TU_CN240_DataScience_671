@@ -21,11 +21,11 @@ The course will introduce you to the world of data science.
 | Date  |   Topic    | Video | Homework | HW Deadline |
 | ----- | ---------  | ------| -------- | ----------- |
 | 15th August |  [Intrduction to the course](https://docs.google.com/presentation/d/15hXHChdy4Gy9qmLRnrUj2cyhyaWmN-6nqQQZQ_bYjRQ/edit?usp=sharing) | [(Video)](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EQ8H4WCH-ttIqHBOPPXnJEkBH1omxrCilEVJyKaprUdZTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=m06yGd)              |       |              |  
-| 22th August |  [Pandas Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Pandas_Basic.ipynb)       |                     |  HW1        |        |
+| 22th August |  [Pandas Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Pandas_Basic.ipynb)       |                     |  [HW1](https://colab.research.google.com/github/yongsa-nut/TU_CN408_GenAI_671/blob/main/HW1.ipynb)        | 30/8/2024   |
 | 29th August |  [Data Visualization Basic](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Visualization_Basic.ipynb)  |      |  HW2      |        |      
 | 5th September  | [Data Visualization Principles](https://docs.google.com/presentation/d/10wyJWXZ1OCpDqDL045LXrcC5tVAz5OoXC_yxYs2B4Ow/edit?usp=sharing) |    |       |            |
-| 12th September | [EDA and Case Studies](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_5.ipynb)  |    |      |  HW3       |
-| 19th September | [Data Cleaning and Wrangling](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_6.ipynb)       |  HW4     |          |           |
+| 12th September | [EDA and Case Studies](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_5.ipynb)  |    |  HW3    |         |
+| 19th September | [Data Cleaning and Wrangling](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_6.ipynb)       |       |   HW4       |           |
 | 26th September | Data Mining and Web Scraping      |     |       |    |
 | 3rd October  |  Midterm                            |     |          |                        |
 | 10th October* | Introduction to Statistical Analysis |      | HW5       |             |
