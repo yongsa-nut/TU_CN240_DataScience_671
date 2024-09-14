@@ -28,8 +28,8 @@ The course will introduce you to the world of data science.
 | 19th September | [Data Cleaning and Wrangling](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/CN240_Lecture_6.ipynb)       |       |   [HW4](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/HW4.ipynb)       |           |
 | 26th September | [Advanced Pandas and Web Scraping](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Lecture_7_Advance_Pandas_and_Web_Scraping.ipynb)      |     |       |    |
 | 3rd October  |  Midterm                            |     |          |                        |
-| 10th October* | Introduction to Statistical Analysis |      | HW5       |             |
-| 17th October* | Linear Regression 1                |     |         |           |
+| 10th October | Introduction to Statistical Analysis |      | HW5       |             |
+| 17th October | Linear Regression 1                |     |         |           |
 | 24th October | Linear Regression 2                 |     | HW6        |             |
 | 31th October | Introduction to Machine Learning    |     | HW7        |            |
 | 7th November | Tree-based Models                   |     | HW8, Project Proposal  |          |
@@ -37,7 +37,6 @@ The course will introduce you to the world of data science.
 | 21th November | Applied Machine Learning           |     |         |          |
 | 28th November | Final Project Presentation         |     |         |            |
 
-*I'm out of town (conference and competition).
 
 ## Grading Rubrics
 - Midterm: 20%
