@@ -9,7 +9,7 @@ Name: Nutchanon Yongsatianchot (Nut)
 
 email: ynutchan@engr.tu.ac.th
 
-Office hours: TBA
+Office hours: Friday at ติกวิจัย 408-1
 
 My room: No room until the building is finished renovation.
 
