@@ -31,7 +31,7 @@ The course will introduce you to the world of data science.
 | 10th October | [Introduction to Statistical Analysis](https://docs.google.com/presentation/d/1cZZbO8R6pSBI-8of8StGoqSWp3Aag4rbFBUodqB0Q4c/edit?usp=sharing) |      | HW5       |             |
 | 17th October | Introduction to Machine Learning               |     |         |           |
 | 24th October | Train/Test/Validation                 |     | HW6        |             |
-| 31th October | Statistical Inference    |     |        |  HW7          |
+| 31th October | Statistical Inference    |     | HW7       |            |
 | 7th November | Logistic Regression & Classification  |     |  Project Proposal (Due)  |          |
 | 14th November | Data Communication + Quiz          |     |           |           |
 | 21th November | LLM + Guest Speaker from SEC          |     |         |          |
