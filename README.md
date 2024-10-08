@@ -29,7 +29,7 @@ The course will introduce you to the world of data science.
 | 26th September | [Advanced Pandas and Web Scraping](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/Lecture_7_Advance_Pandas_and_Web_Scraping.ipynb)      | [Video (part1)](https://www.youtube.com/watch?v=kOe-balxKDc), <br> [Video (part2)](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EVrJ6JW6fXZMjfephxgUgVMBI4N3166-vkh32K2mNXaIDw?e=WPOFSL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   |       |    |
 | 3rd October  |  Midterm @103 14:30 - 16:30                           |     | [Reference](https://github.com/yongsa-nut/TU_CN240_DataScience_671/blob/main/Reference%20sheet.pdf)         |                        |
 | 10th October | [Introduction to Statistical Analysis](https://docs.google.com/presentation/d/1cZZbO8R6pSBI-8of8StGoqSWp3Aag4rbFBUodqB0Q4c/edit?usp=sharing) |      | [HW5](https://colab.research.google.com/github/yongsa-nut/TU_CN240_DataScience_671/blob/main/HW_5_Sample_Statistics.ipynb)       |             |
-| 17th October | Introduction to Machine Learning               |     |         |           |
+| 17th October | [Introduction to Machine Learning](https://docs.google.com/presentation/d/1H9zEZgZTRwyq6475zEK5rh6tAw7wZ1_BA7xdfmW6qHk/edit?usp=sharing)               |     |         |           |
 | 24th October | Train/Test/Validation                 |     | HW6        |             |
 | 31th October | Statistical Inference    |     | HW7       |            |
 | 7th November | Logistic Regression & Classification  |     |  Project Proposal (Due)  |          |
