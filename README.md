@@ -33,10 +33,10 @@ The course will introduce you to the world of data science.
 | 24th October | Train/Test/Validation                 |     | HW6        |         
 | 31th October | Statistical Inference    |     | HW7       |    
 | 7th November | Logistic Regression & Classification  |     |  Project Proposal (Due)  |      
-| 14th November | Data Communication + Quiz          |     |           |       
+| 14th November* | Data Communication + Quiz          |     |           |       
 | 21th November | LLM + Guest Speaker from SEC          |     |         |   
 | 28th November | Final Project Presentation         |     |         |   
-
+* I'm going to a conference.
 
 ## Grading Rubrics
 - Midterm: 20%
