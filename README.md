@@ -34,7 +34,7 @@ The course will introduce you to the world of data science.
 | 31th October | [Logistic Regression & Classification](https://docs.google.com/presentation/d/1M_akhAfDnJI-_RUHfAzQ-w8UT2KskCZeW_yfQBfd2gs/edit?usp=sharing)   |     | HW7       |    
 | 7th November | [Statistical Inference](https://docs.google.com/presentation/d/1vNecAYIrI33pcJ-L7i24GNt0s-0J-4DCaB0Xqr5wUvM/edit?usp=sharing)  |     |  Project Proposal (Due)  |      
 | 14th November* | Data Communication + Quiz          |     |           |       
-| 21th November | LLM + Guest Speaker from SEC          |     |         |   
+| 21th November | [LLM](https://docs.google.com/presentation/d/1tJXm_4-0f-pIFr710BITvVyH967e-WwyW6Kr8l9zO_A/edit?usp=sharing) + Guest Speaker from SEC          |     |         |   
 | 28th November | Final Project Presentation         |     |         |   
 * I'm going to a conference.
 
